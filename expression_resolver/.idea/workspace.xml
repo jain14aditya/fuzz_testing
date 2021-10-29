@@ -23,12 +23,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cd762fb-4194-4ce8-841a-4ec53ecaa6aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/ayaanqui/expressionresolver/ExpressionGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/ayaanqui/expressionresolver/MathClasses/Sin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/ayaanqui/expressionresolver/MathClasses/Sqrt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/github/ayaanqui/expressionresolver/ExpressionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/github/ayaanqui/expressionresolver/ExpressionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/ayaanqui/expressionresolver/ExpressionGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/ayaanqui/expressionresolver/ExpressionGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/ayaanqui/expressionresolver/Resolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/ayaanqui/expressionresolver/Resolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/github/ayaanqui/expressionresolver/CustomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/github/ayaanqui/expressionresolver/CustomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/ayaanqui/expressionresolver/ExpressionGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/ayaanqui/expressionresolver/ExpressionGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/ayaanqui/expressionresolver/Resolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/ayaanqui/expressionresolver/Resolver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/expression-resolver-2.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/expression-resolver-2.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fuzz-results/CustomTest/testAddFuzz/plot_data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/.cur_input" beforeDir="false" afterPath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/.cur_input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/corpus/id_000000" beforeDir="false" afterPath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/corpus/id_000000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/corpus/id_000002" beforeDir="false" afterPath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/corpus/id_000002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/corpus/id_000003" beforeDir="false" afterPath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/corpus/id_000003" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/corpus/id_000004" beforeDir="false" afterPath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/corpus/id_000004" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/failures/id_000000" beforeDir="false" afterPath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/failures/id_000000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/failures/id_000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/fuzz.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/fuzz.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/plot_data" beforeDir="false" afterPath="$PROJECT_DIR$/target/fuzz-results/com.github.ayaanqui.expressionresolver.CustomTest/testAddFuzz/plot_data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fuzz-results/target/test-classes/com/github/ayaanqui/expressionresolver/CustomTest/testAddFuzz/plot_data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-expression-resolver-2.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-expression-resolver-2.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.github.ayaanqui.expressionresolver.CustomTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.github.ayaanqui.expressionresolver.CustomTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.github.ayaanqui.expressionresolver.ErrorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.github.ayaanqui.expressionresolver.ErrorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.github.ayaanqui.expressionresolver.ExpressionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.github.ayaanqui.expressionresolver.ExpressionTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.github.ayaanqui.expressionresolver.FunctionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.github.ayaanqui.expressionresolver.FunctionTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.github.ayaanqui.expressionresolver.CustomTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.github.ayaanqui.expressionresolver.CustomTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.github.ayaanqui.expressionresolver.ErrorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.github.ayaanqui.expressionresolver.ErrorTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.github.ayaanqui.expressionresolver.ExpressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.github.ayaanqui.expressionresolver.ExpressionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.github.ayaanqui.expressionresolver.FunctionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.github.ayaanqui.expressionresolver.FunctionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/github/ayaanqui/expressionresolver/CustomTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/github/ayaanqui/expressionresolver/CustomTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fuzz-test/fuzz-test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fuzz-test/target/fuzz-test-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../fuzz-test/target/fuzz-test-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fuzz-test/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../fuzz-test/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fuzz-test/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../fuzz-test/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fuzz-test/target/surefire-reports/CalendarTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../fuzz-test/target/surefire-reports/CalendarTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fuzz-test/target/surefire-reports/TEST-CalendarTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fuzz-test/target/surefire-reports/TEST-CalendarTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/CalendarLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/CalendarLogic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/CalendarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/test-classes/CalendarTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +82,20 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="2096EFLngmQB2qKM9rfdyeXOlhp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,7 +103,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -83,6 +131,22 @@
       <option name="PACKAGE_NAME" value="com.github.ayaanqui.expressionresolver" />
       <option name="MAIN_CLASS_NAME" value="com.github.ayaanqui.expressionresolver.CustomTest" />
       <option name="METHOD_NAME" value="testAddFuzz" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErrorTest.emptyOperatorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="expression-resolver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.ayaanqui.expressionresolver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.ayaanqui.expressionresolver" />
+      <option name="MAIN_CLASS_NAME" value="com.github.ayaanqui.expressionresolver.ErrorTest" />
+      <option name="METHOD_NAME" value="emptyOperatorsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -151,10 +215,12 @@
       <item itemvalue="JUnit.ExpressionTest.testAddFuzz" />
       <item itemvalue="JUnit.CustomTest.testAddFuzz" />
       <item itemvalue="Maven.expression-resolver [jqf:fuzz]" />
+      <item itemvalue="JUnit.ErrorTest.emptyOperatorsTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.CustomTest.testAddFuzz" />
+        <item itemvalue="JUnit.ErrorTest.emptyOperatorsTest" />
         <item itemvalue="JUnit.ExpressionTest.testAddFuzz" />
         <item itemvalue="JUnit.ExpressionTest" />
       </list>
@@ -182,52 +248,6 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635449573181">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1635449573181" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1635500873580">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1635500873580" />
-    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.25.1440.807@0.25.1440.807" timestamp="1635447769150" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1635500873578">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1635500873578" />
-    <state width="1398" height="304" key="GridCell.Tab.0.center/0.25.1440.807@0.25.1440.807" timestamp="1635447769148" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1635500873577">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1635500873577" />
-    <state width="1398" height="304" key="GridCell.Tab.0.left/0.25.1440.807@0.25.1440.807" timestamp="1635447769148" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1635500873579">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1635500873579" />
-    <state width="1398" height="304" key="GridCell.Tab.0.right/0.25.1440.807@0.25.1440.807" timestamp="1635447769149" />
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1635500755909">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1635500755909" />
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.25.1440.807@0.25.1440.807" timestamp="1635447769151" />
-    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1635500755908">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1635500755908" />
-    <state width="1398" height="304" key="GridCell.Tab.1.center/0.25.1440.807@0.25.1440.807" timestamp="1635447769150" />
-    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1635500755908">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1635500755908" />
-    <state width="1398" height="304" key="GridCell.Tab.1.left/0.25.1440.807@0.25.1440.807" timestamp="1635447769150" />
-    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1635500755909">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1635500755909" />
-    <state width="1398" height="304" key="GridCell.Tab.1.right/0.25.1440.807@0.25.1440.807" timestamp="1635447769151" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

@@ -8,6 +8,7 @@ import java.util.LinkedList;
 import java.util.Map;
 import java.util.function.Function;
 
+import com.github.ayaanqui.expressionresolver.MathClasses.*;
 import com.github.ayaanqui.expressionresolver.objects.Response;
 import com.github.ayaanqui.expressionresolver.util.ConvertConstants;
 import com.github.ayaanqui.expressionresolver.util.EvaluateParentheses;
@@ -32,32 +33,22 @@ public class Resolver {
         variableMap.put("e", Math.E);
         variableMap.put("tau", 2 * Math.PI);
 
-        functionList.put("sqrt", args -> Math.sqrt(args[0]));
-        functionList.put("sin", args -> Math.sin(args[0]));
-        functionList.put("cos", args -> Math.cos(args[0]));
-        functionList.put("tan", args -> Math.tan(args[0]));
-        functionList.put("ln", args -> Math.log(args[0]));
-        functionList.put("log", args -> Math.log(args[0]) / Math.log(args[1]));
-        functionList.put("deg", args -> args[0] * (180 / Math.PI));
-        functionList.put("rad", args -> args[0] * (Math.PI / 180));
-        functionList.put("abs", args -> Math.abs(args[0]));
-        functionList.put("exp", args -> Math.exp(args[0]));
-        functionList.put("arcsin", args -> Math.asin(args[0]));
-        functionList.put("arccos", args -> Math.acos(args[0]));
-        functionList.put("arctan", args -> Math.atan(args[0]));
-        functionList.put("avg", args -> {
-            double sum = Arrays.stream(args).reduce(0.0, (total, arg) -> total += arg);
-            return sum / args.length;
-        });
-        functionList.put("sum", args -> {
-            return Arrays.stream(args).reduce(0.0, (total, arg) -> total += arg);
-        });
-        functionList.put("fact", args -> {
-            double factorial = 1;
-            for (int i = args[0].intValue(); i > 1; i--)
-                factorial *= i;
-            return factorial;
-        });
+        functionList.put("sqrt", args -> Sqrt.sqrt(args[0]));
+        functionList.put("sin", args -> Sin.sin(args[0]));
+        functionList.put("cos", args -> Cos.cos(args[0]));
+        functionList.put("tan", args -> Tan.tan(args[0]));
+        functionList.put("ln", args -> Ln.ln(args[0]));
+        functionList.put("log", args -> Log.log(args[0], args[1]));
+        functionList.put("deg", args -> Deg.deg(args[0]));
+        functionList.put("rad", args -> Rad.rad(args[0]));
+        functionList.put("abs", args -> Abs.abs(args[0]));
+        functionList.put("exp", args -> Exp.exp(args[0]));
+        functionList.put("arcsin", args -> Arcsin.arcsin(args[0]));
+        functionList.put("arccos", args -> Arccos.arccos(args[0]));
+        functionList.put("arctan", args -> Arctan.arctan(args[0]));
+        functionList.put("avg", args -> Avg.avg(args));
+        functionList.put("sum", args -> Sum.sum(args));
+        functionList.put("fact", args -> Fact.fact(args));
     }
 
     /**
@@ -67,12 +58,12 @@ public class Resolver {
      * <p>
      * Usage:
      * </p>
-     * 
+     *
      * <pre>
      * <code>Resolver res = new Resolver();</code>
      * <code>double value = res.setExpression("sin(pi+1)/log(39.5, 10)").solveExpression().result;</code>
      * </pre>
-     * 
+     *
      * @param expression String-based expression
      * @return Resolver object
      */
@@ -95,11 +86,11 @@ public class Resolver {
      * <p>
      * Example subList:
      * </p>
-     * 
+     *
      * <pre>
      * <code>List<String>: ["1", "+", "sin" + "(" + "pi" + ")"]</code>
      * </pre>
-     * 
+     *
      * @param subList List<String> with a pre formatted input
      * @return Returns a Resolver object
      */
