@@ -19,6 +19,12 @@
     <orderEntry type="library" name="Maven: org.javassist:javassist:3.20.0-GA" level="project" />
     <orderEntry type="library" name="Maven: ru.vyarus:generics-resolver:3.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:11" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:mac:11" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:11" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:mac:11" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:11" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:mac:11" level="project" />
     <orderEntry type="library" name="Maven: edu.berkeley.cs.jqf:jqf-fuzz:1.7" level="project" />
     <orderEntry type="library" name="Maven: com.pholser:junit-quickcheck-generators:1.0" level="project" />
     <orderEntry type="library" name="Maven: edu.berkeley.cs.jqf:jqf-instrument:1.7" level="project" />
